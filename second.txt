@@ -1,0 +1,1 @@
+hi this is second file in this folder and i m gonna add this file in staging area and after that commit to local repository.
